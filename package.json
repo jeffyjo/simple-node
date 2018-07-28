@@ -1,0 +1,14 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "A simple note program to demonstrate node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js <command> <args>"
+  },
+  "author": "Jeffyjo",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
